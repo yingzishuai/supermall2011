@@ -1,5 +1,5 @@
 <template>
-    <tab-bar>
+    <tab-bar class="main-tab-bar">
       <tab-bar-item path="/home" :activeClass="aciveClass">
         <img src="~assets/img/tabbar/home.svg" alt="" slot="item-icon">  
         <img src="~assets/img/tabbar/home_active.svg" alt="" slot="item-active-icon">  
@@ -41,6 +41,5 @@
   }
 </script>
 
-<style lang='less' scoped>
-
+<style lang='scss' scoped>
 </style>

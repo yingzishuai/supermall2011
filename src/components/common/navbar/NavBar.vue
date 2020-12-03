@@ -12,7 +12,7 @@
   }
 </script>
 
-<style lang='less' scoped>
+<style lang='scss' scoped>
 .nav-bar{
   display: flex;
   height: 44px;

@@ -30,7 +30,7 @@
   }
 </script>
 
-<style  scoped>
+<style lang="scss" scoped>
 .tabBarItem{
   flex: 1;
 
